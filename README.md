@@ -11,4 +11,4 @@ You have to fill the entire board with tiles while follwoing these 3 rules:
 click on a tile once to turn it red
 click on a tile twice to turn it blue
 
-you can play the game <a href="https://0hh1.com/"> here </a>
+Similar version of the game is available <a href="https://0hh1.com/"> here </a>
